@@ -1,1 +1,2 @@
 print("gaidong")
+print('ok')
